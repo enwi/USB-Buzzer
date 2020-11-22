@@ -10,3 +10,7 @@ How the Buzzer is built and how it functions can be seen here:\
 ## Materials
 [Arduino Pro Micro](https://amzn.to/3lZ8Rkw)\
 [Buttons](https://amzn.to/3kVVobA)
+
+
+## Prerequisites
+You will need to install the [AceButton](https://github.com/bxparks/AceButton) library for the code to compile.
